@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'FaizApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6A8BE8FDF39E49ABB83187F9A20D7E0F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A5C6E73E38524896A8A388513C98B6E2 }}
           package: .
